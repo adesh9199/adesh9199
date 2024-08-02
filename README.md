@@ -32,8 +32,8 @@
 
 
 <div style="display: flex; align-items: center;">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adesh9199&" alt="adesh9199" />
-![Adesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adesh9199&show_icons=true&theme=default) </p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adesh9199&" alt="adesh9199" style="margin-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adesh9199&show_icons=true&theme=default" alt="Adesh's GitHub Stats"/>
 </div>
 
 ## Leetcode
