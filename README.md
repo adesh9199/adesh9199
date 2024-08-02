@@ -25,6 +25,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+## Live Project
+
+Check out my live project:
+
+- [Shopster](https://shopsteradesh.vercel.app/) (Primary Link)
+- [Shopster Alternate](https://shopster-8cya.onrender.com) (Alternate Link)
 
 
 <h3 align="left">Languages and Tools:</h3>
