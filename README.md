@@ -2,14 +2,13 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 ❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB on backend.                  
-🤔 I'm currently working on a robotics hand gripper using a 3D printer.        
 ✨ I study: React, Node.js, MongoDB, and web development technologies.
 
 ## About me:
 - 🌱 I’m currently learning more about advanced React.
 - 👯 I’m looking to collaborate on web development projects and startups.
 - 💬 Ask me about anything related to web development or competitive coding.
-- ⚡ Fun fact: I have a 1750 rating on LeetCode and 5-star in C++ on HackerRank.
+- ⚡ Fun fact: I have a 1835 rating on LeetCode and 5-star in C++ on HackerRank.
 
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
@@ -44,10 +43,10 @@
 
 ## My Journey
 <div align="center">
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=rpatel9675&show_icons=true&theme=dracula">
-  <img width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpatel9675&layout=compact&theme=dracula" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=rpatel9675&theme=dracula">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=rpatel9675&theme=dracula" />
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=adesh9199&show_icons=true&theme=dracula">
+  <img width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adesh9199&layout=compact&theme=dracula" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=adesh9199&theme=dracula">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=adesh9199&theme=dracula" />
 </div>
 
 ## Connect with me:
