@@ -73,9 +73,7 @@
   </a>
   <a href="https://www.geeksforgeeks.org/user/adeshkumar0001/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=4CAF50&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gfg logo" />
-  </a>  <a href="https://www.dropbox.com/scl/fi/7jiurd0nnju64xg81jmwm/Rocky_scv-4.pdf?rlkey=weixtpz9x7kkya6u4o7u6oia4&st=j3cejmm1&dl=0" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Resume&logo=file-pdf&label=&color=FF6F61&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="resume logo" />
-  </a>
+  
   <a href="mailto:adeshkumar889@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
