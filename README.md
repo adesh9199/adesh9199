@@ -59,25 +59,24 @@
   <a href="https://www.instagram.com/r0k_i7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  <a href="https://www.linkedin.com/in/rocky-patel-36070020a/" target="_blank">
+  <a href="https://www.linkedin.com/in/adesh-kumar-dubey-427073227/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://github.com/rpatel9675" target="_blank">
+  <a href="https://github.com/adesh9199" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
   </a>
-  <a href="https://leetcode.com/u/pprl735757/" target="_blank">
+  <a href="https://leetcode.com/u/adeshkumardubey889/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=F9DC5C&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
   </a>
-  <a href="https://www.hackerrank.com/profile/pprl735757" target="_blank">
+  <a href="https://www.hackerrank.com/profile/adeshkumardubey1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/pprl735757/" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/adeshkumar0001/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=4CAF50&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gfg logo" />
-  </a>
-  <a href="https://www.dropbox.com/scl/fi/7jiurd0nnju64xg81jmwm/Rocky_scv-4.pdf?rlkey=weixtpz9x7kkya6u4o7u6oia4&st=j3cejmm1&dl=0" target="_blank">
+  </a>  <a href="https://www.dropbox.com/scl/fi/7jiurd0nnju64xg81jmwm/Rocky_scv-4.pdf?rlkey=weixtpz9x7kkya6u4o7u6oia4&st=j3cejmm1&dl=0" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Resume&logo=file-pdf&label=&color=FF6F61&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="resume logo" />
   </a>
-  <a href="mailto:pprl735757@gmail.com" target="_blank">
+  <a href="mailto:adeshkumar889@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 </div>
