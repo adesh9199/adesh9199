@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning more about advanced React.
 - 👯 I’m looking to collaborate on web development projects and startups.
 - 💬 Ask me about anything related to web development or competitive coding.
-- ⚡ Fun fact: I have a 1835 rating on LeetCode and 5-star in C++ on HackerRank.
+- ⚡ Fun fact: I have a 1835 rating on LeetCode.
 
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
@@ -56,7 +56,7 @@
 
 ## Connect with me:
 <div align="left">
-  <a href="https://www.instagram.com/r0k_i7" target="_blank">
+  <a href="https://www.instagram.com/adesh_bhardwaj1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
   <a href="https://www.linkedin.com/in/adesh-kumar-dubey-427073227/" target="_blank">
