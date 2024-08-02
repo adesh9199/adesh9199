@@ -53,8 +53,8 @@
 
 
 
+## Connect with me
 
-## Connect with me:
 <div align="left">
   <a href="https://www.instagram.com/adesh_bhardwaj1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
@@ -73,14 +73,17 @@
   </a>
   <a href="https://www.geeksforgeeks.org/user/adeshkumar0001/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=4CAF50&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gfg logo" />
-  
+  </a>
   <a href="mailto:adeshkumar889@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
+  <a href="https://www.naukri.com/code360/profile/Adesh_Ninja" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=CodingNinjas&logo=codingninjas&label=&color=F56B02&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codingninjas logo" />
+  </a>
+  <a href="https://www.codechef.com/users/adesh_1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codechef logo" />
+  </a>
 </div>
-
-
-
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
 
