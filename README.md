@@ -40,6 +40,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adesh9199&show_icons=true&locale=en&layout=compact" alt="adesh9199" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adesh9199&" alt="adesh9199" /></p>
+![Adesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adesh9199&show_icons=true&theme=default)
+
 
 ## My Journey
 <div align="center">
@@ -81,25 +83,5 @@
 
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
-# Adesh Kumar Dubey
 
-![Profile Views](https://komarev.com/ghpvc/?username=adesh9199)
 
-## LeetCode Badges
-
-I have earned 9 badges on [LeetCode](https://leetcode.com/u/adeshkumardubey889/). Here are some of my achievements:
-
-![LeetCode Badge](https://leetcode-badge.vercel.app/?username=adeshkumardubey889&theme=default)
-
-## GitHub Stats
-
-![Adesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adesh9199&show_icons=true&theme=default)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adesh9199&layout=compact&theme=default)
-
-## Connect with me
-
-- [LeetCode](https://leetcode.com/u/adeshkumardubey889/)
-- [GitHub](https://github.com/adesh9199/adesh9199/)
