@@ -51,8 +51,7 @@
 
 ## Leetcod
 
-I have earned 9 badges on [LeetCode](https://leetcode.com/u/adeshkumardubey889/). Here are some of my achievements:
-
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={adeshkumardubey889}&animated=true" alt="LeetCode Badges"/>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/adeshkumardubey889?ext=contest&theme=lapor)
 
 ## Connect with me:
