@@ -48,15 +48,14 @@
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=adesh9199&theme=dracula">
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=adesh9199&theme=dracula" />
 </div>
+
+## Leetcode
 <div style="display: flex; align-items: center;">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=adeshkumardubey889&animated=true" alt="LeetCode Badges" style="margin-right: 10px;"/>
   <img src="https://leetcard.jacoblin.cool/adeshkumardubey889?ext=contest&theme=lapor" alt="Leetcode Stats"/>
 </div>
-## Leetcode
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=adeshkumardubey889&animated=true" alt="LeetCode Badges"/>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/adeshkumardubey889?ext=contest&theme=lapor)
 
 
 ## Connect with me:
