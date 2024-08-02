@@ -25,7 +25,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-
+## Deployed Projects:
+- [Shopster](https://shopsteradesh.vercel.app/) (Primary link)
+- [Shopster on Render](https://shopster-8cya.onrender.com) (Alternate link)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -69,14 +71,6 @@
   <a href="https://jwt.io/" target="_blank" rel="noreferrer"> 
     <img src="https://jwt.io/img/pic_logo.svg" alt="jwt" width="40" height="40"/> 
   </a>
-  <!-- bcrypt -->
-  <a href="https://www.npmjs.com/package/bcrypt" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/bcrypt.svg" alt="bcrypt" width="40" height="40"/> 
-  </a>
-  <!-- cookie-parser -->
-  <a href="https://www.npmjs.com/package/cookie-parser" target="_blank" rel="noreferrer"> 
-    <img src="https://avatars.githubusercontent.com/u/6078720?s=200&v=4" alt="cookie-parser" width="40" height="40"/> 
-  </a>
   <!-- React -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
@@ -111,8 +105,6 @@
   </a>
 </p>
 
-
-
 <div style="display: flex; align-items: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adesh9199&" alt="adesh9199" style="margin-right: 10px;"/>
   <img src="https://github-readme-stats.vercel.app/api?username=adesh9199&show_icons=true&theme=default" alt="Adesh's GitHub Stats"/>
@@ -124,48 +116,16 @@
   <img src="https://leetcard.jacoblin.cool/adeshkumardubey889?ext=contest&theme=lapor" alt="Leetcode Stats"/>
 </div>
 
-
 ## My Journey
 <div align="center">
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=adesh9199&show_icons=true&theme=dracula">
   <img width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adesh9199&layout=compact&theme=dracula" />
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=adesh9199&theme=dracula">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=adesh9199&theme=dracula" />
+  <img width="385px" src="https://github-readme-stats.vercel.app/api/wakatime?username=adesh9199&theme=dracula" />
 </div>
-
-
 
 ## Connect with me
-
-<div align="left">
-  <a href="https://www.instagram.com/adesh_bhardwaj1/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/adesh-kumar-dubey-427073227/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://github.com/adesh9199" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
-  </a>
-  <a href="https://leetcode.com/u/adeshkumardubey889/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=F9DC5C&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/adeshkumardubey1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/adeshkumar0001/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=4CAF50&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gfg logo" />
-  </a>
-  <a href="mailto:adeshkumar889@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.naukri.com/code360/profile/Adesh_Ninja" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=CodingNinjas&logo=codingninjas&label=&color=F56B02&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codingninjas logo" />
-  </a>
-  <a href="https://www.codechef.com/users/adesh_1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codechef logo" />
-  </a>
-</div>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
-
+[<img align="left" alt="adesh9199 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/adesh-kumar-dubey-427073227/)
+[<img align="left" alt="adesh9199 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/adesh_bhardwaj1/)
+[<img align="left" alt="adesh9199 | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/adesh9199/)
+[<img align="left" alt="adesh9199 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/)
