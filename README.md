@@ -49,10 +49,12 @@
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=adesh9199&theme=dracula" />
 </div>
 
-## Leetcod
+## Leetcode
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={adeshkumardubey889}&animated=true" alt="LeetCode Badges"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=adeshkumardubey889&animated=true" alt="LeetCode Badges"/>
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/adeshkumardubey889?ext=contest&theme=lapor)
+
 
 ## Connect with me:
 <div align="left">
