@@ -39,10 +39,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adesh9199&show_icons=true&locale=en&layout=compact" alt="adesh9199" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adesh9199&" alt="adesh9199" /></p>
-## GitHub Stats
-
-![Adesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adesh9199&show_icons=true&theme=default)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adesh9199&" alt="adesh9199" />
+![Adesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adesh9199&show_icons=true&theme=default) </p>
 
 ## My Journey
 <div align="center">
