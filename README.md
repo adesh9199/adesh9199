@@ -50,7 +50,10 @@
 </div>
 
 ## Leetcod
-![](https://leetcard.adeshkumardubey889/lapor?ext=contest)
+
+I have earned 9 badges on [LeetCode](https://leetcode.com/u/adeshkumardubey889/). Here are some of my achievements:
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/adeshkumardubey889?ext=contest&theme=lapor)
 
 ## Connect with me:
 <div align="left">
