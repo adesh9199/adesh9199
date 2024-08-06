@@ -62,7 +62,7 @@ Check out my live project:
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="65" height="65" alt="Redux logo" />
    </a>
    <a href="#nodejs">
-     <img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="Node.js icon" width="65" height="65" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js icon" width="65" height="65" />
    </a>
    <a href="#ejs">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ejs/ejs-original.svg" alt="EJS icon" width="65" height="65" />
@@ -101,17 +101,6 @@ Check out my live project:
      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman icon" width="65" height="65" />
    </a>
 </div>
-
-<style>
-  a img {
-    transition: transform 0.3s;
-  }
-  a img:hover {
-    transform: scale(1.1);
-  }
-</style>
-
-
 
 
 
@@ -172,5 +161,3 @@ Check out my live project:
 </div>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
-
-organize it and add more related tech stack in language and tool section remove bcyptjs and cookie parser add nodejs and balace spacing
