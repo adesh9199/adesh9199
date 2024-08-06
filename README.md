@@ -31,7 +31,7 @@ Check out my live project:
 
 - [Shopster](https://shopsteradesh.vercel.app/) (Primary Link)
 - [Shopster Alternate](https://shopster-8cya.onrender.com) (Alternate Link)
-## Languages
+## Languages and Tools:
 <div align="left">
    <a href="#java">
      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java icon" width="65" height="65" />
@@ -62,6 +62,9 @@ Check out my live project:
    </a>
    <a href="#nodejs">
      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js icon" width="65" height="65" />
+   </a>
+   <a href="#typescript">
+     <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript icon" width="65" height="65" />
    </a>
    <a href="#ejs">
      <img src="https://techstack-generator.vercel.app/ejs-icon.svg" alt="EJS icon" width="65" height="65" />
@@ -99,7 +102,14 @@ Check out my live project:
    <a href="#postman">
      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman icon" width="65" height="65" />
    </a>
+   <a href="#figma">
+     <img src="https://techstack-generator.vercel.app/figma-icon.svg" alt="Figma icon" width="65" height="65" />
+   </a>
+   <a href="#aws">
+     <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS icon" width="65" height="65" />
+   </a>
 </div>
+
 
 
 
