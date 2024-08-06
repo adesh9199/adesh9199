@@ -31,6 +31,8 @@ Check out my live project:
 
 - [Shopster](https://shopsteradesh.vercel.app/) (Primary Link)
 - [Shopster Alternate](https://shopster-8cya.onrender.com) (Alternate Link)
+
+- 
 ## Languages and Tools:
 <div align="left">
    <a href="#java">
@@ -48,21 +50,33 @@ Check out my live project:
    <a href="#javascript">
      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript icon" width="65" height="65" />
    </a>
+     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a> 
    <a href="#bootstrap">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap icon" width="65" height="65" />
    </a>
-   <a href="#tailwindcss">
-     <img src="https://techstack-generator.vercel.app/tailwindcss-icon.svg" alt="Tailwind CSS icon" width="65" height="65" />
-   </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  </a> 
    <a href="#react">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65" alt="React logo" />
    </a>
    <a href="#redux">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="65" height="65" alt="Redux logo" />
    </a>
-   <a href="#nodejs">
-     <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js icon" width="65" height="65" />
-   </a>
+  <!-- Node.js -->
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a> 
+  <!-- Multer -->
+  <a href="https://www.npmjs.com/package/multer" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/6078720?s=200&v=4" alt="multer" width="40" height="40"/> 
+  </a>
+  <!-- JWT -->
+  <a href="https://jwt.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://jwt.io/img/pic_logo.svg" alt="jwt" width="40" height="40"/> 
+  </a>
    <a href="#typescript">
      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript icon" width="65" height="65" />
    </a>
@@ -75,9 +89,7 @@ Check out my live project:
    <a href="#mongodb">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB icon" width="65" height="65" />
    </a>
-   <a href="#jwt">
-     <img src="https://techstack-generator.vercel.app/jwt-icon.svg" alt="JWT icon" width="65" height="65" />
-   </a>
+   
    <a href="#auth0">
      <img src="https://cdn.auth0.com/styleguide/latest/lib/logos/img/badge.svg" alt="Auth0 icon" width="65" height="65" />
    </a>
