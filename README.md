@@ -66,7 +66,7 @@ Check out my live project:
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js icon" width="65" height="65" />
    </a>
    <a href="#ejs">
-     <img src="https://techstack-generator.vercel.app/ejs-icon.svg" alt="EJS icon" width="65" height="65" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="EJS icon" width="65" height="65" />
    </a>
    <a href="#express">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js icon" width="65" height="65" />
@@ -75,16 +75,16 @@ Check out my live project:
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB icon" width="65" height="65" />
    </a>
    <a href="#jwt">
-     <img src="https://techstack-generator.vercel.app/jwt-icon.svg" alt="JWT icon" width="65" height="65" />
+     <img src="https://user-images.githubusercontent.com/104061711/156245477-f2e4a69d-0565-4d9a-8ed8-0739b80b9407.png" alt="JWT icon" width="65" height="65" />
    </a>
    <a href="#auth0">
-     <img src="https://techstack-generator.vercel.app/auth0-icon.svg" alt="Auth0 icon" width="65" height="65" />
+     <img src="https://cdn.auth0.com/styleguide/latest/lib/logos/img/badge.svg" alt="Auth0 icon" width="65" height="65" />
    </a>
    <a href="#moongoose">
-     <img src="https://techstack-generator.vercel.app/moongoose-icon.svg" alt="Mongoose icon" width="65" height="65" />
+     <img src="https://seeklogo.com/images/M/mongoose-logo-66B1D62AFD-seeklogo.com.png" alt="Mongoose icon" width="65" height="65" />
    </a>
    <a href="#sql">
-     <img src="https://techstack-generator.vercel.app/sql-icon.svg" alt="SQL icon" width="65" height="65" />
+     <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL icon" width="65" height="65" />
    </a>
    <a href="#mysql">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL icon" width="65" height="65" />
@@ -99,7 +99,7 @@ Check out my live project:
      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub icon" width="65" height="65" />
    </a>
    <a href="#postman">
-     <img src="https://techstack-generator.vercel.app/postman-icon.svg" alt="Postman icon" width="65" height="65" />
+     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman icon" width="65" height="65" />
    </a>
 </div>
 
@@ -111,6 +111,7 @@ Check out my live project:
     transform: scale(1.1);
   }
 </style>
+
 
 
 
