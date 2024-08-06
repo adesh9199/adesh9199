@@ -35,35 +35,56 @@ Check out my live project:
 
 ## Languages
 <div align="left">
-   <a href="#macropower-tech">
-     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python icon" width="65" height="65" />
+   <a href="#java">
+     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java icon" width="65" height="65" />
    </a>
-   <a href="#javascript">
-     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript icon" width="65" height="65" />
+   <a href="#c">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C icon" width="65" height="65" />
    </a>
-   <a href="#cplusplus">
-     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++ icon" width="65" height="65" />
-   </a>
- <a href="#react">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65" alt="react logo" />
-</a>
    <a href="#html5">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 icon" width="65" height="65" />
    </a>
    <a href="#css3">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 icon" width="65" height="65" />
    </a>
-   <a href="#c">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C icon" width="65" height="65" />
+   <a href="#javascript">
+     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript icon" width="65" height="65" />
+   </a>
+   <a href="#bootstrap">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap icon" width="65" height="65" />
+   </a>
+   <a href="#tailwindcss">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS icon" width="65" height="65" />
+   </a>
+   <a href="#react">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65" alt="React logo" />
+   </a>
+   <a href="#redux">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="65" height="65" alt="Redux logo" />
    </a>
    <a href="#nodejs">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js icon" width="65" height="65" />
+   </a>
+   <a href="#ejs">
+     <img src="https://techstack-generator.vercel.app/ejs-icon.svg" alt="EJS icon" width="65" height="65" />
    </a>
    <a href="#express">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js icon" width="65" height="65" />
    </a>
    <a href="#mongodb">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB icon" width="65" height="65" />
+   </a>
+   <a href="#jwt">
+     <img src="https://techstack-generator.vercel.app/jwt-icon.svg" alt="JWT icon" width="65" height="65" />
+   </a>
+   <a href="#auth0">
+     <img src="https://techstack-generator.vercel.app/auth0-icon.svg" alt="Auth0 icon" width="65" height="65" />
+   </a>
+   <a href="#moongoose">
+     <img src="https://techstack-generator.vercel.app/moongoose-icon.svg" alt="Mongoose icon" width="65" height="65" />
+   </a>
+   <a href="#sql">
+     <img src="https://techstack-generator.vercel.app/sql-icon.svg" alt="SQL icon" width="65" height="65" />
    </a>
    <a href="#mysql">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL icon" width="65" height="65" />
@@ -77,20 +98,20 @@ Check out my live project:
    <a href="#github">
      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub icon" width="65" height="65" />
    </a>
-   <a href="#bootstrap">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap icon" width="65" height="65" />
+   <a href="#postman">
+     <img src="https://techstack-generator.vercel.app/postman-icon.svg" alt="Postman icon" width="65" height="65" />
    </a>
-   <a href="#matlab">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab icon" width="65" height="65" />
-   </a>
-   <a href="#arduino">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino icon" width="65" height="65" />
-   </a>
-     <a href="#mysql">
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql icon" width="65" height="65" />
-  </a>
 </div>
-<br>
+
+<style>
+  a img {
+    transition: transform 0.3s;
+  }
+  a img:hover {
+    transform: scale(1.1);
+  }
+</style>
+
 
 
 
