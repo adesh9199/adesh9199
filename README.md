@@ -80,9 +80,10 @@ Check out my live project:
    <a href="#typescript">
      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript icon" width="65" height="65" />
    </a>
-   <a href="#ejs">
-     <img src="https://techstack-generator.vercel.app/ejs-icon.svg" alt="EJS icon" width="65" height="65" />
-   </a>
+   <a href="https://ejs.co/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="ejs" width="40" height="40"/>
+</a>
+
    <a href="#express">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js icon" width="65" height="65" />
    </a>
