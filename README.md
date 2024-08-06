@@ -33,6 +33,7 @@ Check out my live project:
 - [Shopster Alternate](https://shopster-8cya.onrender.com) (Alternate Link)
 
 
+## Languages
 <div align="left">
    <a href="#macropower-tech">
      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python icon" width="65" height="65" />
