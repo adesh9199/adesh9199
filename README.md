@@ -93,9 +93,10 @@ Check out my live project:
    <a href="#auth0">
      <img src="https://cdn.auth0.com/styleguide/latest/lib/logos/img/badge.svg" alt="Auth0 icon" width="65" height="65" />
    </a>
-   <a href="#moongoose">
-     <img src="https://techstack-generator.vercel.app/mongoose-icon.svg" alt="Mongoose icon" width="65" height="65" />
-   </a>
+  <!-- Mongoose -->
+  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4" alt="mongoose" width="40" height="40"/> 
+  </a>
    <a href="#sql">
      <img src="https://techstack-generator.vercel.app/sql-icon.svg" alt="SQL icon" width="65" height="65" />
    </a>
@@ -114,9 +115,10 @@ Check out my live project:
    <a href="#postman">
      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman icon" width="65" height="65" />
    </a>
-   <a href="#figma">
-     <img src="https://techstack-generator.vercel.app/figma-icon.svg" alt="Figma icon" width="65" height="65" />
-   </a>
+   <!-- Figma -->
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" alt="figma" width="40" height="40"/> 
+  </a>
    <a href="#aws">
      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS icon" width="65" height="65" />
    </a>
