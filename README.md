@@ -32,7 +32,6 @@ Check out my live project:
 - [Shopster](https://shopsteradesh.vercel.app/) (Primary Link)
 - [Shopster Alternate](https://shopster-8cya.onrender.com) (Alternate Link)
 
-
 ## Languages
 <div align="left">
    <a href="#java">
@@ -63,10 +62,10 @@ Check out my live project:
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="65" height="65" alt="Redux logo" />
    </a>
    <a href="#nodejs">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js icon" width="65" height="65" />
+     <img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="Node.js icon" width="65" height="65" />
    </a>
    <a href="#ejs">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="EJS icon" width="65" height="65" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ejs/ejs-original.svg" alt="EJS icon" width="65" height="65" />
    </a>
    <a href="#express">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js icon" width="65" height="65" />
@@ -111,6 +110,7 @@ Check out my live project:
     transform: scale(1.1);
   }
 </style>
+
 
 
 
