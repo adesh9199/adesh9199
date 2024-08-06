@@ -31,7 +31,6 @@ Check out my live project:
 
 - [Shopster](https://shopsteradesh.vercel.app/) (Primary Link)
 - [Shopster Alternate](https://shopster-8cya.onrender.com) (Alternate Link)
-
 ## Languages
 <div align="left">
    <a href="#java">
@@ -53,7 +52,7 @@ Check out my live project:
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap icon" width="65" height="65" />
    </a>
    <a href="#tailwindcss">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS icon" width="65" height="65" />
+     <img src="https://techstack-generator.vercel.app/tailwindcss-icon.svg" alt="Tailwind CSS icon" width="65" height="65" />
    </a>
    <a href="#react">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65" alt="React logo" />
@@ -62,10 +61,10 @@ Check out my live project:
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="65" height="65" alt="Redux logo" />
    </a>
    <a href="#nodejs">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js icon" width="65" height="65" />
+     <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js icon" width="65" height="65" />
    </a>
    <a href="#ejs">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ejs/ejs-original.svg" alt="EJS icon" width="65" height="65" />
+     <img src="https://techstack-generator.vercel.app/ejs-icon.svg" alt="EJS icon" width="65" height="65" />
    </a>
    <a href="#express">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js icon" width="65" height="65" />
@@ -74,16 +73,16 @@ Check out my live project:
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB icon" width="65" height="65" />
    </a>
    <a href="#jwt">
-     <img src="https://user-images.githubusercontent.com/104061711/156245477-f2e4a69d-0565-4d9a-8ed8-0739b80b9407.png" alt="JWT icon" width="65" height="65" />
+     <img src="https://techstack-generator.vercel.app/jwt-icon.svg" alt="JWT icon" width="65" height="65" />
    </a>
    <a href="#auth0">
      <img src="https://cdn.auth0.com/styleguide/latest/lib/logos/img/badge.svg" alt="Auth0 icon" width="65" height="65" />
    </a>
    <a href="#moongoose">
-     <img src="https://seeklogo.com/images/M/mongoose-logo-66B1D62AFD-seeklogo.com.png" alt="Mongoose icon" width="65" height="65" />
+     <img src="https://techstack-generator.vercel.app/mongoose-icon.svg" alt="Mongoose icon" width="65" height="65" />
    </a>
    <a href="#sql">
-     <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL icon" width="65" height="65" />
+     <img src="https://techstack-generator.vercel.app/sql-icon.svg" alt="SQL icon" width="65" height="65" />
    </a>
    <a href="#mysql">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL icon" width="65" height="65" />
