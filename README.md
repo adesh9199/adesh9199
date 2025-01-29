@@ -32,9 +32,8 @@ Check out my live project:
 - [Shopster](https://shopsteradesh.vercel.app/) (Primary Link)
 - [Shopster Alternate](https://shopster-8cya.onrender.com) (Alternate Link)
 
-- 
 ## Languages and Tools:
-<div style="display: flex; flex-wrap: nowrap; gap: 20px; padding: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; padding: 20px;">
 
   <!-- Frontend Container -->
   <div style="flex: 1; border: 2px solid red; padding: 20px; border-radius: 10px;">
@@ -74,26 +73,23 @@ Check out my live project:
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="50" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" />
-      <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://www.svgrepo.com/show/448299/aws.svg)" alt="AWS" height="50" />
-    
+      <!-- Corrected AWS Icon -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original-wordmark.svg" alt="AWS" height="50" />
     </div>
   </div>
 
-<!-- DevOps Container -->
-<div style="flex: 1; border: 2px solid gray; padding: 20px; border-radius: 10px;">
-  <h3>DevOps</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="50" />
-    <!-- Corrected AWS icon link -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original-wordmark.svg" alt="AWS" height="50" />
+  <!-- DevOps Container -->
+  <div style="flex: 1; border: 2px solid gray; padding: 20px; border-radius: 10px;">
+    <h3>DevOps</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="50" />
+      <!-- AWS Icon updated -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original-wordmark.svg" alt="AWS" height="50" />
+    </div>
   </div>
+
 </div>
-
-
-
-
-
 
 <div style="display: flex; align-items: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adesh9199&" alt="adesh9199" style="margin-right: 10px;"/>
