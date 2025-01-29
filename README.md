@@ -79,15 +79,17 @@ Check out my live project:
     </div>
   </div>
 
-  <!-- DevOps Container -->
-  <div style="flex: 1; border: 2px solid gray; padding: 20px; border-radius: 10px;">
-    <h3>DevOps</h3>
-    <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="50" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original-wordmark.svg" alt="AWS" height="50" />
-    </div>
+<!-- DevOps Container -->
+<div style="flex: 1; border: 2px solid gray; padding: 20px; border-radius: 10px;">
+  <h3>DevOps</h3>
+  <div style="display: flex; flex-wrap: wrap; gap: 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="50" />
+    <!-- Corrected AWS icon link -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original-wordmark.svg" alt="AWS" height="50" />
   </div>
+</div>
+
 
 </div>
 
