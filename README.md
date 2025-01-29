@@ -34,82 +34,44 @@ Check out my live project:
 
 - 
 ## Languages and Tools:
-<div align="left">
-   <a href="#java">
-     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java icon" width="65" height="65" />
-   </a>
-   <a href="#c">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C icon" width="65" height="65" />
-   </a>
-   <a href="#html5">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 icon" width="65" height="65" />
-   </a>
-   <a href="#css3">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 icon" width="65" height="65" />
-   </a>
-   <a href="#javascript">
-     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript icon" width="65" height="65" />
-   </a>
-   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="65" height="65"/> 
-   </a>
-   <a href="#bootstrap">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap icon" width="65" height="65" />
-   </a>
-   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="65" height="65"/> 
-   </a>
-   <a href="#react">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65" alt="React logo" />
-   </a>
-   <a href="#redux">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="65" height="65" alt="Redux logo" />
-   </a>
-   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="65" height="65"/> 
-   </a> 
-   <a href="https://www.npmjs.com/package/multer" target="_blank" rel="noreferrer"> 
-     <img src="https://avatars.githubusercontent.com/u/6078720?s=200&v=4" alt="multer" width="65" height="65"/> 
-   </a>
-   <a href="https://jwt.io/" target="_blank" rel="noreferrer"> 
-     <img src="https://jwt.io/img/pic_logo.svg" alt="jwt" width="65" height="65"/> 
-   </a>
-   <a href="https://ejs.co/" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="ejs" width="65" height="65"/>
-   </a>
-   <a href="#express">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js icon" width="65" height="65" />
-   </a>
-   <a href="#mongodb">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB icon" width="65" height="65" />
-   </a>
-   <a href="#auth0">
-     <img src="https://cdn.auth0.com/styleguide/latest/lib/logos/img/badge.svg" alt="Auth0 icon" width="65" height="65" />
-   </a>
-   <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> 
-     <img src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4" alt="mongoose" width="65" height="65"/> 
-   </a>
-   <a href="#mysql">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL icon" width="65" height="65" />
-   </a>
-   <a href="#restapi">
-     <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest API icon" width="65" height="65" />
-   </a>
-   <a href="#git">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git icon" width="65" height="65" />
-   </a>
-   <a href="#github">
-     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub icon" width="65" height="65" />
-   </a>
-   <a href="#postman">
-     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman icon" width="65" height="65" />
-   </a>
-   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-     <img src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" alt="figma" width="65" height="65"/> 
-   </a>
-   <a href="#aws">
-     <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS icon" width="65" height="65" />
-   </a>
+<div align="center">
+  <!-- Frontend -->
+  <h3>Frontend</h3>
+  <div>
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="50" />
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="50" />
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="50" />
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="50" />
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" height="50" />
+  </div>
+
+  <!-- Backend -->
+  <h3>Backend</h3>
+  <div>
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" height="50" />
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50" />
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="50" />
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" />
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="50" />
+  </div>
+
+  <!-- DevOps -->
+  <h3>DevOps</h3>
+  <div>
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" />
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" height="50" />
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="50" />
+  </div>
+
+  <!-- Languages -->
+  <h3>Languages</h3>
+  <div>
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="50" />
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" />
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" />
+  </div>
 </div>
 
 
