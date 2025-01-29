@@ -34,63 +34,42 @@ Check out my live project:
 
 - 
 ## Languages and Tools:
-<div style="display: flex; flex-wrap: nowrap; gap: 20px; padding: 20px;">
-
-  <!-- Frontend Container -->
-  <div style="flex: 1; border: 2px solid gray; padding: 20px; border-radius: 10px;">
-    <h3>Frontend</h3>
-    <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="50" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="50" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="50" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="50" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" height="50" />
-    </div>
+<!-- Frontend Section -->
+<div align="center">
+  <h3>Frontend</h3>
+  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-original-wordmark.svg" alt="Bootstrap" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="TailwindCSS" height="50" />
   </div>
-
-  <!-- Backend Container -->
-  <div style="flex: 1; border: 2px solid gray; padding: 20px; border-radius: 10px;">
-    <h3>Backend</h3>
-    <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-      <div style="flex: 1;">
-        <h4>Backend Technologies</h4>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" height="50" />
-      </div>
-      <div style="flex: 1;">
-        <h4>Databases</h4>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="50" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50" />
-      </div>
-    </div>
-  </div>
-
-  <!-- Languages Container -->
-  <div style="flex: 1; border: 2px solid gray; padding: 20px; border-radius: 10px;">
-    <h3>Languages</h3>
-    <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="50" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="50" />
-    </div>
-  </div>
-
-  <!-- DevOps Container -->
-  <div style="flex: 1; border: 2px solid gray; padding: 20px; border-radius: 10px;">
-    <h3>DevOps</h3>
-    <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="50" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original-wordmark.svg" alt="AWS" height="50" />
-    </div>
-  </div>
-
 </div>
 
+<!-- Backend Section -->
+<div align="center">
+  <h3>Backend</h3>
+  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original-wordmark.svg" alt="Python" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
+  </div>
+</div>
 
+<!-- DevOps Section -->
+<div align="center">
+  <h3>DevOps</h3>
+  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <!-- AWS Icon Fixed -->
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original-wordmark.svg" alt="AWS" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
+  </div>
+</div>
 
 
 
