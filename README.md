@@ -73,8 +73,7 @@ Check out my live project:
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="50" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" />
-      <!-- Corrected AWS Icon -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original-wordmark.svg" alt="AWS" height="50" />
+     
     </div>
   </div>
 
@@ -85,12 +84,14 @@ Check out my live project:
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="50" />
       <!-- AWS Icon updated -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original-wordmark.svg" alt="AWS" height="50" />
+      <img src="	data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwA…m6yes/z/9B2sK/QdrCv0P3c8ZMh2I+88AAAAASUVORK5CYII=
+" alt="AWS" height="50" />
+      
     </div>
   </div>
 
 </div>
-
+ </br>
 <div style="display: flex; align-items: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adesh9199&" alt="adesh9199" style="margin-right: 10px;"/>
   <img src="https://github-readme-stats.vercel.app/api?username=adesh9199&show_icons=true&theme=default" alt="Adesh's GitHub Stats"/>
